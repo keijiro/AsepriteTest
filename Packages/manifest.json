@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "com.unity.2d.aseprite": "1.1.6",
+    "com.unity.render-pipelines.universal": "17.0.3"
+  }
+}
